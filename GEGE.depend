@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615387542 source:c:\users\hajerm\desktop\gege\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<ctype.h>
+
